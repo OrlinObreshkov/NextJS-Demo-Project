@@ -1,0 +1,12 @@
+.section-welcome {
+    text-align: center;
+}
+
+.section-welcome h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.section-welcome p {
+    font-size: 22px;
+}
